@@ -56,7 +56,7 @@ Key questions such as:
   
 - What products should be promoted or discontinued
   
-… are difficult to answer using raw transactional data.
+  are difficult to answer using raw transactional data.
 
 <h3>• Goal of the Dashboard</h3>
 
