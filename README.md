@@ -138,6 +138,8 @@ Bottom 5 Pizzas by Revenue
 
 <h2>6. Screenshots / Demos</h2>
 
+Show what the dashboard looks like. Example:
+
 ![Sales Overview](https://github.com/suyogbrid/Pizza-Sales-Performance-Dashboard-Power-BI/blob/main/pizza_sales_overview.png)
 ![Best & Worst Sellers](https://github.com/suyogbrid/Pizza-Sales-Performance-Dashboard-Power-BI/blob/main/pizza_sales_product_performance.png)
 
