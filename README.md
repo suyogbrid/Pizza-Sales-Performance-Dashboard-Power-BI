@@ -8,13 +8,13 @@ Example:
 🍕 Pizza Sales Insights: Full‑Year Performance Dashboard
 An interactive Power BI dashboard designed to analyze a full year of pizza sales, uncovering trends in revenue, order behavior, product performance, and customer preferences.
 
-2. Short Description / Purpose
+3. Short Description / Purpose
 1–2 sentences explaining what the dashboard does and why it exists.
 Example:
 The Pizza Sales Insights Dashboard is a visually rich and analytical Power BI report built to explore sales performance across categories, sizes, and individual pizza types. It helps business owners, analysts, and restaurant managers understand customer demand patterns, identify best‑selling products, and make data‑driven decisions to optimize menu strategy and operations.
 
 
-3. Tech Stack
+4. Tech Stack
 List of tools and technologies used.
 Example:
 The dashboard was built using the following tools and technologies:
@@ -25,7 +25,7 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-4. Data Source
+5. Data Source
 Where the data comes from and how it’s structured.
 Example:
 Source: Pizza sales dataset containing order details, pizza categories, sizes, and product‑level attributes.
