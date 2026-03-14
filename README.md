@@ -2,28 +2,42 @@
 
 <h2>1. Project Title / Headline</h2>
 A concise, descriptive name for the dashboard.
+
 🍕 Pizza Sales Insights: Full‑Year Performance Dashboard
+
 An interactive Power BI dashboard designed to analyze a full year of pizza sales, uncovering trends in revenue, order behavior, product performance, and customer preferences.
 
 <h2>2. Short Description / Purpose</h2>
 The Pizza Sales Insights Dashboard is a visually rich and analytical Power BI report built to explore sales performance across categories, sizes, and individual pizza types. It helps business owners, analysts, and restaurant managers understand customer demand patterns, identify best‑selling products, and make data‑driven decisions to optimize menu strategy and operations.
 
 <h2>3. Tech Stack</h2>
+
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main platform for data visualization and report creation.
+
 • 📂 Power Query – Used for data cleaning, shaping, and transformation.
+
 • 🧠 DAX (Data Analysis Expressions) – For calculated measures such as revenue, order averages, and ranking logic.
+
 • 🧱 Data Modeling – Star schema design enabling efficient filtering and cross‑visual interactions.
+
 • 📁 File Formats – .pbix for development and .png for dashboard previews.
 
 <h2>4. Data Source</h2>
 Source: Pizza sales dataset containing order details, pizza categories, sizes, and product‑level attributes.
+
 The dataset includes:
 - Order dates and times
+  
 - Pizza names, categories, and sizes
+  
 - Quantity sold
+  
 - Unit price and total revenue
+  
 - Order‑level metrics
+  
 This structure enables analysis of trends by day, month, product type, and customer ordering behavior.
 
 <h2>5. Features / Highlights</h2>
